@@ -1,3 +1,7 @@
 div{
     background-color: blueviolet;
+    border: 20px solid brown;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
 }
